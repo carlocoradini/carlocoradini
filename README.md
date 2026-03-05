@@ -15,16 +15,9 @@
 
 <h2 align="center">🛠️ Tech Stack</h2> 
 <p align="center"> 
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,git,github,vscode" /> 
+    <img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,tailwind,git" /> 
 </p>
 
-<!-- Estatísticas do GitHub -->
-
-<h2 align="center">📈 Atividade no GitHub</h2> 
-<p align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=carlocoradini&show_icons=true&theme=radical" width="400" /> 
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=carlocoradini&theme=radical" width="400" /> 
-</p>
 
 <!-- Footer Animado -->
 <p align="center">
